@@ -74,3 +74,5 @@ sapply(mergers, getN), rowSums(seqtabNoC))
 colnames(track) <- c("input", "filtered", "denoisedF", "denoisedR", "merged", "nonchim")
 rownames(track) <- sampleNames
 capture.output(track, file= "dada2track.txt")
+
+
