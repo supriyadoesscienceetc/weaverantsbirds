@@ -1,0 +1,400 @@
+Seq810	gi|146198166|dbj|AB265384.1|	83.626	171	3.74e-32	Chariaspilates formosaria gene for 16S rRNA, partial sequence
+Seq811	gi|302746946|gb|GU194581.1|	90.506	158	1.69e-50	Phytocoris intricatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq812	gi|157420412|gb|EF662108.1|	85.417	144	3.74e-32	Blastopsocus sp. KY300 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq813	gi|663337761|gb|KJ136724.1|	87.273	165	7.93e-44	N/A
+Seq814	gi|666668166|gb|KF935485.1|	79.755	163	4.91e-21	N/A
+Seq815	gi|27463922|gb|AF514498.1|	88.608	158	6.13e-45	Japanese Meconematinae MCJ-2002 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq816	gi|388242771|gb|JQ917909.1|	89.873	158	2.83e-48	Mecopoda niponensis mitochondrion, complete genome
+Seq817	gi|388242771|gb|JQ917909.1|	86.709	158	6.17e-40	Mecopoda niponensis mitochondrion, complete genome
+Seq818	gi|1036229483|gb|KT876879.1|	81.250	144	4.91e-21	N/A
+Seq820	gi|732559179|gb|KM492929.1|	82.051	117	1.37e-16	N/A
+Seq821	gi|732559179|gb|KM492929.1|	80.556	144	2.95e-18	N/A
+Seq823	gi|422899332|gb|JQ613948.1|	90.566	159	1.69e-50	Phytosciara ussuriensis voucher 883 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq824	gi|158832211|dbj|AB363720.1|	90.511	137	3.69e-42	Cacopsylla qianli mitochondrial gene for 16S rRNA, partial sequence, isolate: MC-Q
+Seq825	gi|575427322|gb|KF205892.1|	90.152	132	7.98e-39	N/A
+Seq826	gi|1384965909|gb|MF286854.1|	84.416	154	3.74e-32	N/A
+Seq828	gi|625293678|gb|KJ466365.1|	87.273	165	1.03e-42	N/A
+Seq829	gi|924434827|gb|KP081978.1|	85.276	163	1.34e-36	N/A
+Seq831	gi|1000233970|gb|KT696251.1|	84.242	165	1.73e-35	N/A
+Seq833	gi|1027254028|gb|KU753807.1|	90.741	162	1.31e-51	N/A
+Seq834	gi|1314672275|gb|MG250566.1|	100.000	197	3.41e-97	N/A
+Seq836	gi|316990083|gb|GU901822.1|	84.615	117	1.05e-22	Henlea cf. andreae PDW-2010 isolate CE814 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq838	gi|1228304334|gb|KY633323.1|	88.889	135	1.34e-36	N/A
+Seq839	gi|924434849|gb|KP082000.1|	94.444	162	3.58e-62	N/A
+Seq840	gi|169730455|gb|EU368560.1|	99.367	158	7.60e-74	Bolivaritettix liboensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq841	gi|1141958678|gb|KX640826.1|	82.000	150	3.79e-22	N/A
+Seq842	gi|27463922|gb|AF514498.1|	87.342	158	4.77e-41	Japanese Meconematinae MCJ-2002 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq843	gi|388242785|gb|JQ917910.1|	89.937	159	7.87e-49	Mecopoda elongata mitochondrion, complete genome
+Seq844	gi|388242771|gb|JQ917909.1|	94.937	158	1.29e-61	Mecopoda niponensis mitochondrion, complete genome
+Seq845	gi|388242771|gb|JQ917909.1|	86.709	158	6.17e-40	Mecopoda niponensis mitochondrion, complete genome
+Seq846	gi|983635887|gb|KT153024.1|	86.503	163	1.72e-40	N/A
+Seq847	gi|89146780|gb|DQ397928.1|	93.082	159	1.00e-57	Aedes flavopictus isolate A47 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq848	gi|828276408|gb|KM111009.1|	80.315	127	2.30e-14	N/A
+Seq849	gi|1013824907|gb|KT443883.1|	83.333	174	1.35e-31	N/A
+Seq850	gi|1199285965|gb|KX424095.1|	88.820	161	1.32e-46	N/A
+Seq851	gi|1192790181|gb|KX827002.1|	95.625	160	5.96e-65	N/A
+Seq852	gi|1002342354|gb|KT970063.1|	85.455	165	3.71e-37	N/A
+Seq854	gi|390432800|gb|JN172633.1|	88.957	163	1.02e-47	N/A
+Seq855	gi|18462804|gb|AF386666.1|	84.828	145	1.74e-30	Oncothrips schwarzi 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq856	gi|1015602355|gb|KT956371.1|	91.139	158	1.31e-51	N/A
+Seq857	gi|404256571|gb|JQ421929.1|	100.000	162	9.76e-78	Graphium antiphates isolate F105 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq858	gi|94467794|gb|DQ459942.1|	99.231	130	2.79e-58	Uncinais uncinata 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq859	gi|388242771|gb|JQ917909.1|	88.608	158	6.13e-45	Mecopoda niponensis mitochondrion, complete genome
+Seq860	gi|953966650|dbj|LC099190.1|	79.592	147	3.82e-17	N/A
+Seq861	gi|516306396|gb|JX412756.1|	82.803	157	2.25e-29	N/A
+Seq862	gi|1145999513|gb|KY224684.1|	89.916	119	2.89e-33	N/A
+Seq863	gi|1158587158|gb|KY190253.1|	97.059	136	1.30e-56	N/A
+Seq864	gi|815930842|gb|KP245955.1|	87.681	138	1.73e-35	N/A
+Seq866	gi|404426061|gb|JQ416137.1|	90.683	161	3.64e-52	Cupha erymanthis lotis isolate F96 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq867	gi|765098582|dbj|AB918959.1|	88.462	104	6.30e-25	N/A
+Seq868	gi|158832191|dbj|AB363700.1|	88.276	145	7.98e-39	Psylla lanceolata mitochondrial gene for 16S rRNA, partial sequence, isolate: DA-1
+Seq869	gi|694176943|dbj|AB856935.1|	93.793	145	1.01e-52	N/A
+Seq871	gi|146198216|dbj|AB265434.1|	84.663	163	1.73e-35	Timandra dichela gene for 16S rRNA, partial sequence
+Seq872	gi|1251775604|gb|KY124331.1|	81.707	164	1.35e-26	N/A
+Seq873	gi|560188173|gb|KF709449.1|	84.524	168	1.73e-35	N/A
+Seq875	gi|296248687|gb|HM015957.1|	78.571	168	1.03e-17	Pheidole metana voucher ALMHA6_71 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq876	gi|953966628|dbj|LC099168.1|	91.026	78	2.87e-18	N/A
+Seq878	gi|955662248|emb|LN888401.1|	85.625	160	1.30e-36	N/A
+Seq880	gi|1152524733|gb|KU900579.1|	91.304	161	2.73e-53	N/A
+Seq881	gi|1381394343|ref|NC_037515.1|	90.123	162	1.64e-50	N/A
+Seq882	gi|1384965909|gb|MF286854.1|	86.184	152	3.60e-37	N/A
+Seq883	gi|705248766|gb|KM099034.1|	88.889	162	1.28e-46	N/A
+Seq884	gi|1002342368|gb|KT970064.1|	83.019	159	4.69e-31	N/A
+Seq885	gi|820722331|gb|KR080490.1|	87.117	163	3.58e-42	N/A
+Seq886	gi|962094420|gb|KR903736.1|	84.694	98	4.79e-16	N/A
+Seq887	gi|1199285048|gb|KX529277.1|	80.473	169	1.02e-22	N/A
+Seq888	gi|604141830|gb|KJ185131.1|	86.061	165	2.15e-39	N/A
+Seq889	gi|1002342326|gb|KT970061.1|	94.375	160	1.25e-61	N/A
+Seq892	gi|1002342340|gb|KT970062.1|	81.988	161	3.65e-27	N/A
+Seq893	gi|913201607|gb|KP011479.1|	88.312	154	2.77e-43	N/A
+Seq894	gi|1134549931|gb|KY492248.1|	96.250	160	1.24e-66	N/A
+Seq896	gi|459926667|gb|KC505476.1|	94.776	134	1.64e-50	Fulmekiola serrata isolate RB 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq899	gi|1321369173|dbj|LC208993.1|	81.553	103	3.73e-12	N/A
+Seq900	gi|953966622|dbj|LC099162.1|	81.548	168	4.73e-26	N/A
+Seq901	gi|953966668|dbj|LC099208.1|	76.730	159	1.04e-12	N/A
+Seq902	gi|388242771|gb|JQ917909.1|	86.624	157	2.15e-39	Mecopoda niponensis mitochondrion, complete genome
+Seq903	gi|953966628|dbj|LC099168.1|	87.640	89	2.87e-18	N/A
+Seq904	gi|388242771|gb|JQ917909.1|	86.076	158	2.79e-38	Mecopoda niponensis mitochondrion, complete genome
+Seq905	gi|514252864|gb|KC894725.1|	90.184	163	5.90e-50	Agrotis segetum mitochondrion, complete genome
+Seq906	gi|922578945|gb|KT303684.1|	83.607	122	2.21e-19	N/A
+Seq907	gi|380765402|gb|JN581770.1|	87.654	162	2.77e-43	Zyras sp. 3 HE-2012 voucher ZMUN:10051280 16S ribosomal RNA gene, partial sequence; tRNA-Leu (trnL) gene, complete sequence; and NADH dehydrogenase subunit 1 (NADH1) gene, partial cds; mitochondrial
+Seq909	gi|146198222|dbj|AB265440.1|	84.568	162	6.03e-35	Ariolica argentea gene for 16S rRNA, partial sequence
+Seq910	gi|443287439|emb|HE971090.1|	85.149	101	1.33e-16	Hydraena coryleti mitochondrial 16S rRNA gene (partial), tRNA-Leu gene and nad1 gene (partial), specimen voucher MNCN:AI767
+Seq911	gi|291191683|gb|FJ973871.1|	91.026	156	4.56e-51	Stenoluperus sp. 2 BMNH 831453 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq915	gi|542129834|gb|KC185960.1|	86.250	160	1.00e-37	N/A
+Seq917	gi|9789134|gb|AF173069.1|	88.889	162	1.28e-46	Spodoptera mauritia acronyctoides 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq918	gi|94410837|gb|DQ469561.1|	82.927	164	6.07e-30	Atrichopogon flavolineatus isolate 62C-1 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq919	gi|88193730|dbj|AB232961.1|	96.815	157	1.24e-66	Coeliodes nakanoensis mitochondrial gene for 12S ribosomal RNA, 16S ribosomal RNA, tRNA-Val, partail and complete sequence
+Seq920	gi|640941873|gb|KF672441.1|	85.294	136	1.02e-27	N/A
+Seq921	gi|110431089|emb|AJ831598.1|	92.547	161	3.50e-57	Neochalcosia remota mitochondrial tRNA-Leu (CUN) gene, 16S rRNA gene and tRNA-Val (GUN) gene, specimen voucher Z002184
+Seq923	gi|50251132|dbj|AB159087.1|	87.654	162	2.77e-43	Trichoplusia ni mitochondrial gene for 16S ribosomal RNA, partial sequence
+Seq924	gi|302746934|gb|GU194569.1|	79.503	161	2.21e-19	Myiomma kukai 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq925	gi|1373290509|gb|CP020553.1|	100.000	43	1.34e-11	N/A
+Seq926	gi|1200754194|gb|MF073207.1|	83.030	165	2.18e-29	N/A
+Seq927	gi|953966628|dbj|LC099168.1|	90.909	99	1.02e-27	N/A
+Seq928	gi|873155879|gb|KT250518.1|	80.263	152	2.87e-18	N/A
+Seq929	gi|146198213|dbj|AB265431.1|	89.091	165	9.88e-48	Trichopteryx miracula gene for 16S rRNA, partial sequence
+Seq930	gi|353334561|gb|JN003915.1|	79.310	145	4.79e-16	Rhysida longipes isolate CES07263 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq931	gi|73761828|gb|DQ104768.1|	87.162	148	3.60e-37	Heterocaecilius fuscus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq933	gi|1016562192|gb|KU925208.1|	82.781	151	1.70e-25	N/A
+Seq934	gi|296124719|gb|GU569213.1|	87.671	146	2.79e-38	Stenopsocus nigricellus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq935	gi|705248766|gb|KM099034.1|	90.625	160	1.27e-51	N/A
+Seq936	gi|542129840|gb|KC185966.1|	89.873	158	2.75e-48	N/A
+Seq938	gi|1336820903|gb|KY467349.1|	91.241	137	9.95e-43	N/A
+Seq939	gi|1174238592|gb|KX758295.1|	100.000	193	5.54e-95	N/A
+Seq940	gi|58577507|emb|AJ781515.1|	80.000	160	3.68e-22	Basilepta nr. nitida JGZ-2004 partial 16S rRNA gene
+Seq942	gi|384407101|gb|JQ028726.1|	100.000	144	9.60e-68	N/A
+Seq943	gi|94410846|gb|DQ469570.1|	89.109	101	2.20e-24	Bezzia winnertziana isolate 30C-1 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq944	gi|1382351741|gb|MF162939.1|	82.394	142	2.85e-23	N/A
+Seq945	gi|407227484|emb|FR856884.1|	83.673	98	1.72e-15	Philodina citrina complete mitochondrial genome
+Seq946	gi|110676243|gb|DQ787991.1|	83.200	125	2.21e-19	Bombus coccineus voucher SC137 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq948	gi|239736534|gb|GQ118283.1|	89.262	149	7.69e-44	Baetis tricaudatus voucher BYU:IGCEP011 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq950	gi|157779170|gb|EU005435.1|	85.714	140	1.31e-31	Pedicia albivitta voucher O'Grady 200012 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq953	gi|705248766|gb|KM099034.1|	88.820	161	1.28e-46	N/A
+Seq954	gi|618857526|gb|KJ364659.1|	93.210	162	7.53e-59	N/A
+Seq955	gi|371779328|emb|FR846365.1|	92.547	161	1.26e-56	Zariquieya sp. AF-2011 partial mitochondrial 16S rRNA gene, specimen voucher IBE-M10
+Seq957	gi|388242771|gb|JQ917909.1|	89.103	156	5.94e-45	Mecopoda niponensis mitochondrion, complete genome
+Seq958	gi|983635887|gb|KT153024.1|	88.272	162	5.94e-45	N/A
+Seq960	gi|1004606869|gb|KT225298.1|	87.261	157	1.29e-41	N/A
+Seq961	gi|673921172|dbj|AB863661.1|	85.926	135	7.85e-29	N/A
+Seq962	gi|765098563|dbj|AB918940.1|	84.112	107	2.87e-18	N/A
+Seq963	gi|281410258|gb|FJ903697.1|	85.987	157	1.00e-37	Arthromacra amamiana voucher UPOL ZL0029 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq964	gi|154854647|gb|EF517577.1|	87.261	157	1.29e-41	Rhinosimus ruficollis 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq965	gi|1384965909|gb|MF286854.1|	88.079	151	1.29e-41	N/A
+Seq966	gi|46560077|gb|AY587889.1|	82.090	134	1.71e-20	Megastylus sp. NQLD voucher NQLD4#7 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq968	gi|27464033|gb|AF514609.1|	81.600	125	3.71e-17	Taciturna lyndonestesi 16S ribosomal RNA gene, partial sequence
+Seq969	gi|950798475|gb|KU049702.1|	93.671	158	2.71e-58	N/A
+Seq970	gi|18462796|gb|AF386658.1|	84.000	150	6.07e-30	Onychothrips arotrum 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq971	gi|1158798347|gb|KX551411.1|	89.375	160	9.88e-48	N/A
+Seq973	gi|2352414|gb|AF003520.1|AF003520	78.205	156	4.79e-16	Xorides sp. 16S ribosomal RNA gene, partial sequence
+Seq974	gi|1202136316|gb|KX245927.1|	100.000	160	1.22e-76	N/A
+Seq976	gi|1199285027|gb|KX529256.1|	85.093	161	4.66e-36	N/A
+Seq977	gi|1035489961|gb|KX092666.1|	85.294	102	7.97e-19	N/A
+Seq978	gi|37675090|gb|AY324984.1|	79.518	166	4.76e-21	Promachus bastardii 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq980	gi|574957125|ref|NM_001190487.2|	100.000	194	1.54e-95	N/A
+Seq981	gi|303305092|gb|HM452296.1|	83.851	161	1.31e-31	Eusarima sp. 1 LZ-2010 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq982	gi|542129823|gb|KC185949.1|	84.146	164	1.01e-32	N/A
+Seq984	gi|1178768524|gb|KX087283.1|	81.481	162	1.70e-25	N/A
+Seq985	gi|513292302|gb|KC435584.1|	87.943	141	1.30e-36	Novakia scatopsiformis voucher JSM12 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq987	gi|281410248|gb|FJ903687.1|	82.716	162	2.83e-28	Cerogria bryanti voucher UPOL ZL0011 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq988	gi|388242771|gb|JQ917909.1|	89.873	158	2.75e-48	Mecopoda niponensis mitochondrion, complete genome
+Seq989	gi|953966635|dbj|LC099175.1|	87.879	99	1.02e-22	N/A
+Seq990	gi|953966650|dbj|LC099190.1|	83.000	100	2.23e-14	N/A
+Seq991	gi|953966628|dbj|LC099168.1|	89.899	99	4.73e-26	N/A
+Seq992	gi|388242771|gb|JQ917909.1|	88.608	158	5.94e-45	Mecopoda niponensis mitochondrion, complete genome
+Seq993	gi|530798021|gb|JX870621.1|	100.000	144	9.60e-68	N/A
+Seq994	gi|440806900|gb|JQ888512.1|	82.424	165	7.85e-29	Sphedanolestes sp. 00004116 isolate RCW 1999 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq995	gi|1382351737|gb|MF162935.1|	80.153	131	2.23e-14	N/A
+Seq997	gi|112253818|gb|DQ888607.1|	88.889	162	2.14e-44	Rhagophthalmus lufengensis mitochondrion, complete genome
+Seq998	gi|630602337|gb|KJ002982.1|	81.250	160	1.70e-25	N/A
+Seq1001	gi|1169627671|gb|KY468344.1|	79.861	144	3.71e-17	N/A
+Seq1004	gi|922579390|gb|KT304129.1|	91.925	161	5.73e-55	N/A
+Seq1005	gi|316929235|gb|GU344086.1|	89.937	159	2.07e-49	Platypleura arabica voucher MHV1202 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1006	gi|727826697|gb|KM874804.1|	94.375	160	1.22e-61	N/A
+Seq1007	gi|922578841|gb|KT303580.1|	83.000	100	7.84e-14	N/A
+Seq1008	gi|1233832051|emb|LT602702.1|	83.333	162	4.59e-31	N/A
+Seq1009	gi|751360850|gb|KM023494.1|	81.818	165	5.97e-25	N/A
+Seq1010	gi|340807411|gb|JF778809.1|	86.503	163	1.63e-40	Drypta dentata 16S ribosomal RNA (rrnl) gene, partial sequence; mitochondrial
+Seq1011	gi|146198210|dbj|AB265428.1|	87.037	162	1.26e-41	Sibatania mactata gene for 16S rRNA, partial sequence
+Seq1012	gi|701217340|gb|KM200152.1|	84.242	165	2.74e-33	N/A
+Seq1013	gi|404256571|gb|JQ421929.1|	83.636	165	1.27e-31	Graphium antiphates isolate F105 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1015	gi|32188068|gb|AF420050.1|	100.000	191	7.00e-94	Homo sapiens mitochondrial 12S ribosomal RNA nuclear pseudogene pseudogene, partial sequence; mitochondrial tRNA-Val nuclear pseudogene pseudogene, complete sequence; and mitochondrial 16S ribosomal RNA nuclear pseudogene pseudogene, partial sequence
+Seq1016	gi|2352414|gb|AF003520.1|AF003520	80.625	160	1.00e-22	Xorides sp. 16S ribosomal RNA gene, partial sequence
+Seq1017	gi|1373290509|gb|CP020553.1|	97.826	46	1.31e-11	N/A
+Seq1018	gi|316993947|gb|GU372446.1|	96.250	160	1.21e-66	Chrysozephyrus smaragdinus 16S ribosomal RNA gene, partial sequence; tRNA-Val gene, complete sequence; and 12S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1019	gi|225904567|gb|FJ808160.1|	83.230	161	4.59e-31	Chrysosoma bearni voucher RMBR:103427 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1020	gi|712045514|gb|KM244665.1|	90.798	163	9.58e-53	N/A
+Seq1022	gi|66270010|gb|DQ023050.1|	80.672	119	7.84e-14	Cardiocondyla minutior isolate minutior23A 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1023	gi|669819442|gb|KF525460.1|	87.117	163	3.50e-42	N/A
+Seq1024	gi|973412299|dbj|LC051993.1|	98.611	144	2.03e-64	N/A
+Seq1025	gi|666668166|gb|KF935485.1|	84.906	106	2.16e-19	N/A
+Seq1026	gi|390432800|gb|JN172633.1|	94.521	73	1.29e-21	N/A
+Seq1027	gi|390432800|gb|JN172633.1|	83.051	118	1.01e-17	N/A
+Seq1028	gi|922579334|gb|KT304073.1|	85.714	161	3.52e-37	N/A
+Seq1029	gi|1004606827|gb|KT225295.1|	89.937	159	2.68e-48	N/A
+Seq1030	gi|193082163|gb|EU683083.1|	83.019	159	1.65e-30	Bryocoris pteridis 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1031	gi|1134549940|gb|KY492257.1|	91.411	163	2.06e-54	N/A
+Seq1034	gi|1244552645|gb|KX437730.1|	82.443	131	6.02e-20	N/A
+Seq1035	gi|109676560|gb|DQ648673.1|	84.906	159	1.64e-35	Gimnomera dorsata 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1036	gi|953966665|dbj|LC099205.1|	86.747	83	6.06e-15	N/A
+Seq1037	gi|953966635|dbj|LC099175.1|	89.899	99	4.62e-26	N/A
+Seq1038	gi|388242771|gb|JQ917909.1|	89.308	159	1.25e-46	Mecopoda niponensis mitochondrion, complete genome
+Seq1039	gi|146198186|dbj|AB265404.1|	87.647	170	2.09e-44	Psyra bluethgeni gene for 16S rRNA, partial sequence
+Seq1041	gi|146198208|dbj|AB265426.1|	88.889	162	1.25e-46	Operophtera relegata gene for 16S rRNA, partial sequence
+Seq1042	gi|1137646543|gb|KX781690.1|	93.168	161	9.51e-58	N/A
+Seq1043	gi|630602337|gb|KJ002982.1|	81.875	160	3.57e-27	N/A
+Seq1044	gi|211922760|dbj|AB375488.1|	90.826	109	1.65e-30	Actenicerus kiashianus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: NUM:Ae02-000009
+Seq1045	gi|663337761|gb|KJ136724.1|	89.697	165	5.77e-50	N/A
+Seq1046	gi|321267237|gb|HQ333684.1|	83.851	161	3.54e-32	Megapenthini sp. UPOL RK0014 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1047	gi|955660763|emb|LN866560.1|	82.209	163	3.57e-27	N/A
+Seq1048	gi|1160418725|gb|KY369319.1|	100.000	132	4.40e-61	N/A
+Seq1049	gi|906850803|gb|KP868791.1|	100.000	192	1.95e-94	N/A
+Seq1050	gi|109628848|gb|DQ538563.1|	81.208	149	1.29e-21	Glypta fumiferanae 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1051	gi|1247175931|gb|KY039134.1|	86.335	161	1.63e-40	N/A
+Seq1052	gi|906850803|gb|KP868791.1|	99.479	192	9.05e-93	N/A
+Seq1053	gi|425869703|gb|KC177459.1|	82.099	162	3.57e-27	Microchorista philpotti 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1054	gi|109628843|gb|DQ538558.1|	78.832	137	1.31e-11	Campoletis sonorensis isolate 1 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1055	gi|66270020|gb|DQ023060.1|	79.114	158	1.01e-17	Cardiocondyla atalanta isolate atalanta3A 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1056	gi|158832191|dbj|AB363700.1|	89.209	139	7.57e-39	Psylla lanceolata mitochondrial gene for 16S rRNA, partial sequence, isolate: DA-1
+Seq1057	gi|1176836677|gb|KX356495.1|	85.185	162	1.64e-35	N/A
+Seq1059	gi|962094420|gb|KR903736.1|	84.375	96	6.06e-15	N/A
+Seq1060	gi|27464011|gb|AF514587.1|	77.976	168	6.06e-15	Comidogryllus sp. MCJ-2002 16S ribosomal RNA gene, partial sequence
+Seq1061	gi|962094420|gb|KR903736.1|	85.714	98	1.01e-17	N/A
+Seq1062	gi|962094420|gb|KR903736.1|	84.694	98	4.68e-16	N/A
+Seq1063	gi|18462801|gb|AF386663.1|	81.944	144	2.78e-23	Oncothrips tepperi 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1064	gi|321267272|gb|HQ333675.1|	84.375	160	2.12e-34	Agriotes acuminatus voucher UPOL<CZE>:RK0003 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1065	gi|296248687|gb|HM015957.1|	79.042	167	2.21e-19	Pheidole metana voucher ALMHA6_71 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1067	gi|283484604|gb|GQ122065.1|	87.879	99	3.68e-22	Evacanthus acuminatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1068	gi|1247175931|gb|KY039134.1|	85.246	122	1.70e-25	N/A
+Seq1069	gi|45826294|gb|AY521268.1|	89.062	64	4.83e-11	Siphoninus phillyreae cytochrome b (CYTB) gene, partial cds; tRNA-Ser, tRNA-Arg, and tRNA-Ala genes, complete sequence; NADH dehydrogenase subunit 3 (ND3) gene, complete cds; tRNA-Gly gene, complete sequence; cytochrome oxidase subunit III (COIII) gene, complete cds; tRNA-Asn and tRNA-Gln genes, complete sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds; and tRNA-Leu, large subunit ribosomal RNA, tRNA-Val, and small subunit ribosomal RNA genes, complete sequence; mitochondrial
+Seq1071	gi|530798021|gb|JX870621.1|	93.836	146	2.73e-53	N/A
+Seq1073	gi|763550706|gb|KP133940.1|	86.164	159	2.79e-38	N/A
+Seq1074	gi|296248687|gb|HM015957.1|	79.641	167	4.76e-21	Pheidole metana voucher ALMHA6_71 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1075	gi|390432800|gb|JN172633.1|	93.865	163	1.25e-61	N/A
+Seq1076	gi|1145998949|gb|KY224643.1|	96.875	160	2.67e-68	N/A
+Seq1077	gi|962094465|gb|KR903781.1|	86.735	98	2.21e-19	N/A
+Seq1079	gi|146198189|dbj|AB265407.1|	89.571	163	2.12e-49	Wilemania nitobei gene for 16S rRNA, partial sequence
+Seq1080	gi|298683809|gb|HM132110.1|	84.049	163	2.81e-33	Philipomyia graeca 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1081	gi|401880622|gb|JX316220.1|	86.145	166	2.79e-38	Spodoptera exigua mitochondrion, complete genome
+Seq1083	gi|651237883|gb|KJ144850.1|	88.889	144	1.66e-40	N/A
+Seq1084	gi|296124722|gb|GU569216.1|	83.108	148	1.70e-25	Dypsocus coleoptratus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1085	gi|27463922|gb|AF514498.1|	88.050	159	7.69e-44	Japanese Meconematinae MCJ-2002 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1087	gi|390432800|gb|JN172633.1|	93.151	73	6.16e-20	N/A
+Seq1088	gi|388242771|gb|JQ917909.1|	84.076	157	1.31e-31	Mecopoda niponensis mitochondrion, complete genome
+Seq1089	gi|953966628|dbj|LC099168.1|	91.566	83	1.32e-21	N/A
+Seq1090	gi|388242771|gb|JQ917909.1|	87.975	158	2.77e-43	Mecopoda niponensis mitochondrion, complete genome
+Seq1092	gi|239736534|gb|GQ118283.1|	84.211	152	1.69e-30	Baetis tricaudatus voucher BYU:IGCEP011 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1093	gi|820722331|gb|KR080490.1|	82.927	164	1.69e-30	N/A
+Seq1094	gi|319740814|gb|GU947385.1|	84.277	159	2.81e-33	Chloromyia formosa 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1095	gi|1084352609|gb|KX146493.1|	99.490	196	5.54e-95	N/A
+Seq1096	gi|924434789|gb|KP081940.1|	86.782	174	3.58e-42	N/A
+Seq1098	gi|764697711|gb|KM978382.1|	93.333	75	1.71e-20	N/A
+Seq1099	gi|162414775|gb|EF487820.1|	89.441	161	9.88e-48	Oxyomus sylvestris 16S ribosomal RNA gene, partial sequence
+Seq1100	gi|1096115027|dbj|LC091317.1|	93.038	158	4.53e-56	N/A
+Seq1101	gi|159024928|emb|AJ831739.1|	80.537	149	2.21e-19	Zygaena trifolii diffusemarginata mitochondrial tRNA-Leu (CUN) gene, 16S rRNA gene and tRNA-Val (GUN) gene, specimen voucher Z005451
+Seq1102	gi|89994142|emb|AM160794.1|	83.333	162	6.07e-30	Calligrapha alnicola mitochondrial partial 16S rRNA gene, isolate 1
+Seq1103	gi|742797821|emb|LN607806.1|	78.912	147	4.79e-16	N/A
+Seq1104	gi|296248682|gb|HM015952.1|	80.342	117	3.73e-12	Pheidole gilva voucher KTRW2603711 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1105	gi|817597677|gb|KP973953.1|	94.512	164	9.67e-63	N/A
+Seq1106	gi|1145999359|gb|KY224673.1|	100.000	163	2.63e-78	N/A
+Seq1107	gi|296124714|gb|GU569208.1|	96.503	143	7.53e-59	Kolbia fusconervosa 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1108	gi|146198189|dbj|AB265407.1|	89.024	164	9.88e-48	Wilemania nitobei gene for 16S rRNA, partial sequence
+Seq1112	gi|1201333492|gb|KY887905.1|	79.592	147	1.33e-16	N/A
+Seq1113	gi|211922770|dbj|AB375498.1|	91.667	144	3.55e-47	Corymbitodes gratus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: NUM:Ae02-000011
+Seq1115	gi|296248689|gb|HM015959.1|	79.630	162	6.16e-20	Pheidole nr. nitella MDS-2010 voucher ALMCH3_21 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1116	gi|927275778|gb|KP240883.1|	100.000	192	1.99e-94	N/A
+Seq1118	gi|1373440711|gb|MG489916.1|	85.616	146	1.31e-31	N/A
+Seq1119	gi|694176946|dbj|AB856938.1|	87.075	147	1.30e-36	N/A
+Seq1121	gi|302746929|gb|GU194564.1|	91.195	159	3.53e-52	Lygocoris pabulinus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1122	gi|66270010|gb|DQ023050.1|	78.205	156	2.23e-14	Cardiocondyla minutior isolate minutior23A 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1125	gi|407227484|emb|FR856884.1|	91.176	102	2.18e-29	Philodina citrina complete mitochondrial genome
+Seq1126	gi|21309995|gb|AF376897.1|	100.000	208	2.54e-103	Yuhina flavicollis 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1127	gi|310618986|gb|HQ178346.1|	84.906	159	2.81e-33	Spodoptera ochrea voucher SPO-B84 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1128	gi|817597677|gb|KP973953.1|	87.037	162	4.63e-41	N/A
+Seq1129	gi|109628857|gb|DQ538572.1|	85.106	141	2.10e-29	Sinophorus townesorum isolate 1 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1130	gi|158832191|dbj|AB363700.1|	94.161	137	1.58e-50	Psylla lanceolata mitochondrial gene for 16S rRNA, partial sequence, isolate: DA-1
+Seq1131	gi|12002711|gb|AF158031.1|AF158031	83.333	162	1.62e-30	Cixius circulus 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1132	gi|157779166|gb|EU005431.1|	89.308	159	9.50e-48	Libnotes orofenaae voucher O'Grady 202034 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1134	gi|602624639|gb|KF591906.1|	95.775	142	4.36e-56	N/A
+Seq1135	gi|395757488|gb|JN377605.1|	85.455	165	3.46e-37	N/A
+Seq1136	gi|422899271|gb|JQ613887.1|	92.638	163	3.37e-57	Pseudolycoriella horribilis voucher 74 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1137	gi|583829614|gb|KF926378.1|	100.000	198	8.85e-98	N/A
+Seq1140	gi|5081389|gb|AF108108.1|	83.168	101	5.96e-15	Philodina acuticornis 16S ribosomal RNA, partial sequence; mitochondrial gene for mitochondrial product
+Seq1141	gi|765098563|dbj|AB918940.1|	79.747	158	1.65e-20	N/A
+Seq1142	gi|1023973218|gb|KU949136.1|	84.375	160	7.50e-34	N/A
+Seq1143	gi|402314434|gb|JN828202.1|	89.308	159	3.42e-47	Colobaea bifasciella voucher MU_NUS_SG3 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1145	gi|829098514|gb|KT003160.1|	86.331	139	1.25e-31	N/A
+Seq1146	gi|298578755|gb|GQ258360.1|	86.364	88	5.96e-15	Anthocoris japonicus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1147	gi|1384965901|gb|MF286846.1|	88.125	160	2.06e-44	N/A
+Seq1149	gi|549465910|gb|KC992640.1|	86.335	161	5.76e-40	Agraphydrus sp. SLE0252 16S ribosomal RNA gene, partial sequence
+Seq1150	gi|189547851|dbj|AB371035.1|	80.000	135	2.14e-14	Lasius umbratus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: NSMT:MMANT:a6
+Seq1153	gi|422899269|gb|JQ613885.1|	84.127	126	9.84e-23	Lycoriella flavicornis voucher 62 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1154	gi|1382351737|gb|MF162935.1|	80.368	163	9.84e-23	N/A
+Seq1155	gi|126678897|gb|EF363277.1|	98.734	158	1.19e-71	Periplaneta americana voucher G23 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1156	gi|1248843112|gb|KY039118.1|	79.874	159	1.65e-20	N/A
+Seq1157	gi|1145997543|gb|KY224541.1|	90.062	161	5.68e-50	N/A
+Seq1158	gi|663337766|gb|KJ136729.1|	82.390	159	3.51e-27	N/A
+Seq1159	gi|1285707460|gb|MG066704.1|	99.490	196	5.33e-95	N/A
+Seq1162	gi|922579247|gb|KT303986.1|	93.000	100	1.25e-31	N/A
+Seq1163	gi|316990067|gb|GU901806.1|	86.861	137	9.70e-33	Fridericia parathalassia isolate CE1029 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1164	gi|594707382|gb|KJ147216.1|	81.034	116	7.71e-14	N/A
+Seq1165	gi|296124702|gb|GU569196.1|	88.112	143	2.68e-38	Pseudocaecilius citricola 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1166	gi|316990051|gb|GU901790.1|	84.892	139	2.10e-29	Enchytraeus japonensis isolate CE881 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1167	gi|296124706|gb|GU569200.1|	84.028	144	1.26e-26	Peripsocus subfasciatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1168	gi|1150147233|ref|NC_033853.1|	90.446	157	2.04e-49	N/A
+Seq1171	gi|394337134|gb|JX131613.1|	82.979	141	7.61e-24	Diadromus collaris mitochondrion, partial genome
+Seq1173	gi|917544409|gb|KP986320.1|	81.679	131	9.91e-18	N/A
+Seq1174	gi|161318271|gb|EU164613.1|	81.507	146	1.65e-20	Corticarina sp. 1 NPL-2007 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1175	gi|291191687|gb|FJ973875.1|	82.927	164	2.10e-29	Galerucinae sp. BMNH 835056 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1176	gi|451939684|gb|JX020538.1|	89.474	95	9.84e-23	Eurhadina fasciata 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1177	gi|110431098|emb|AJ831607.1|	80.000	165	2.13e-19	Theresimima ampellophaga mitochondrial tRNA-Leu (CUN) gene for transfer RNA-Leu (CUN) and partial 16S rRNA gene, specimen voucher Z002004
+Seq1178	gi|395484278|gb|JQ425022.1|	100.000	130	5.60e-60	Nais communis/variabilis complex sp. A4 isolate CE3953 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1179	gi|913201610|gb|KP011482.1|	92.500	160	4.36e-56	N/A
+Seq1180	gi|146198186|dbj|AB265404.1|	88.824	170	2.64e-48	Psyra bluethgeni gene for 16S rRNA, partial sequence
+Seq1181	gi|914731480|gb|KR005723.1|	87.037	162	1.60e-40	N/A
+Seq1184	gi|325305617|gb|HQ896033.1|	97.087	206	3.21e-92	Cyanoptila cyanomelana mitochondrion, complete genome
+Seq1185	gi|319740814|gb|GU947385.1|	83.851	161	1.25e-31	Chloromyia formosa 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1186	gi|422899273|gb|JQ613889.1|	95.000	160	2.59e-63	Phytosciara flavipes voucher 88 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1188	gi|1064244473|gb|KX631458.1|	96.226	159	1.54e-65	N/A
+Seq1189	gi|19073317|gb|AF473541.1|	83.117	154	7.55e-29	Lygus elisus 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1190	gi|669677967|gb|KF438121.1|	88.194	144	7.45e-39	N/A
+Seq1191	gi|1285707474|gb|MG066705.1|	100.000	195	4.12e-96	N/A
+Seq1193	gi|310618922|gb|HQ178282.1|	85.714	168	1.02e-37	Spodoptera eridania voucher SPO-B70 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1196	gi|1200754280|gb|KY427968.1|	88.125	160	2.17e-44	N/A
+Seq1197	gi|1169627671|gb|KY468344.1|	79.861	144	3.76e-17	N/A
+Seq1198	gi|619323478|gb|KF626026.1|	82.822	163	7.98e-29	N/A
+Seq1199	gi|1216867105|gb|KY817245.1|	81.633	98	4.90e-11	N/A
+Seq1200	gi|12002759|gb|AF158079.1|AF158079	95.570	158	2.73e-63	Ricanula pulverosa 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1202	gi|395757488|gb|JN377605.1|	85.890	163	7.86e-39	N/A
+Seq1205	gi|388242771|gb|JQ917909.1|	84.810	158	6.12e-35	Mecopoda niponensis mitochondrion, complete genome
+Seq1206	gi|151303592|gb|EF485047.1|	82.317	164	7.98e-29	Parnassius simo avinovi 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1207	gi|146198159|dbj|AB265377.1|	90.419	167	4.63e-51	Alcis angulifera gene for 16S rRNA, partial sequence
+Seq1208	gi|211922759|dbj|AB375487.1|	87.313	134	1.33e-31	Actenicerus giganteus mitochondrial gene for 16S ribosomal RNA, partial sequence, specimen_voucher: NUM:Ae02-000088
+Seq1209	gi|116518526|gb|EF012758.1|	81.132	159	2.89e-23	Fulvius variegatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1210	gi|109628848|gb|DQ538563.1|	80.368	163	1.04e-22	Glypta fumiferanae 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1212	gi|21322141|gb|AF467685.1|	83.439	157	2.22e-29	Acidiella angustifascia 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1213	gi|109390784|emb|AJ495524.1|	83.439	157	6.17e-30	Cleonus piger partial mitochondrial 16S rRNA gene
+Seq1214	gi|1092183606|gb|KX035217.1|	85.987	157	1.02e-37	N/A
+Seq1219	gi|6092047|dbj|AB026613.1|	89.634	164	2.16e-49	Pseudovelia tibialis mitochondrial gene for 16S ribosomal RNA, partial sequence
+Seq1221	gi|1233046021|gb|KX785241.1|	87.037	162	1.31e-41	N/A
+Seq1223	gi|1064244475|gb|KX631460.1|	96.226	159	1.63e-65	N/A
+Seq1225	gi|1233046020|gb|KX785240.1|	88.415	164	1.68e-45	N/A
+Seq1226	gi|58577539|emb|AJ781547.1|	82.474	97	3.79e-12	Platycorynus chalybaeus partial 16S rRNA gene
+Seq1227	gi|296124719|gb|GU569213.1|	86.986	146	1.32e-36	Stenopsocus nigricellus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1228	gi|27464033|gb|AF514609.1|	79.394	165	2.25e-19	Taciturna lyndonestesi 16S ribosomal RNA gene, partial sequence
+Seq1229	gi|922579033|gb|KT303772.1|	82.812	128	2.25e-19	N/A
+Seq1230	gi|1381394343|ref|NC_037515.1|	88.199	161	6.04e-45	N/A
+Seq1231	gi|922579454|gb|KT304193.1|	98.125	160	1.25e-71	N/A
+Seq1232	gi|296124702|gb|GU569196.1|	88.112	143	2.83e-38	Pseudocaecilius citricola 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1233	gi|188571627|gb|EF487931.1|	93.210	162	7.64e-59	Microserica interrogator voucher BMNH 678398 16S large subunit ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+Seq1234	gi|557469512|gb|KF590544.1|	86.420	162	2.19e-39	N/A
+Seq1236	gi|146198166|dbj|AB265384.1|	89.697	165	5.99e-50	Chariaspilates formosaria gene for 16S rRNA, partial sequence
+Seq1238	gi|541136210|gb|KF134821.1|	81.301	123	4.87e-16	Tetra pinnatifidae haplotype H4 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1239	gi|169730460|gb|EU368565.1|	83.974	156	1.33e-31	Coptotettix fangchengensis 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1240	gi|1199285042|gb|KX529271.1|	87.654	162	3.63e-42	N/A
+Seq1241	gi|1126363190|dbj|LC061486.1|	99.367	158	7.48e-74	N/A
+Seq1242	gi|146198220|dbj|AB265438.1|	83.537	164	4.77e-31	Scopula sp. ja001 gene for 16S rRNA, partial sequence
+Seq1243	gi|662242485|dbj|AB858383.1|	80.488	164	3.74e-22	N/A
+Seq1244	gi|1023973170|gb|KU949088.1|	86.585	164	2.19e-39	N/A
+Seq1246	gi|313662211|gb|HQ392511.1|	84.118	170	6.12e-35	Grapholita molesta mitochondrion, complete genome
+Seq1247	gi|480320935|gb|JX556720.1|	87.069	116	4.80e-26	Oliarus sp. 2 NS-2013 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1250	gi|531242674|gb|KF318484.1|	78.378	148	8.15e-14	N/A
+Seq1254	gi|608607513|gb|KJ396197.1|	88.820	161	1.30e-46	N/A
+Seq1255	gi|1092183480|gb|KX035204.1|	81.290	155	8.03e-24	N/A
+Seq1257	gi|188571664|gb|EF487950.1|	82.237	152	1.95e-24	Astaena sp. BMNH 671334 16S large subunit ribosomal RNA gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (ND1) gene, partial cds; mitochondrial
+Seq1260	gi|762023431|gb|KJ721855.1|	81.595	163	1.16e-26	N/A
+Seq1261	gi|407227484|emb|FR856884.1|	83.654	104	4.24e-16	Philodina citrina complete mitochondrial genome
+Seq1262	gi|340008214|gb|JN100019.1|	79.268	164	3.28e-17	Stenopirates sp. HL-2011 mitochondrion, complete genome
+Seq1263	gi|146269476|gb|EF209465.1|	85.185	108	1.96e-19	Riolus subviolaceus 16S ribosomal RNA (rrnL) gene, partial sequence; tRNA-Leu gene, complete sequence; and NADH dehydrogenase subunit 1 (nad1) gene, partial sequence; mitochondrial
+Seq1264	gi|542129823|gb|KC185949.1|	84.146	164	8.92e-33	N/A
+Seq1265	gi|1151010582|gb|KY495958.1|	85.455	165	1.15e-36	N/A
+Seq1266	gi|29653109|gb|AY227489.1|	88.144	194	1.11e-56	Petaurista alborufus isolate Pal1 16S ribosomal RNA gene, partial sequence; mitochondrial gene for mitochondrial product
+Seq1270	gi|1244517796|dbj|LC228103.1|	82.530	166	6.95e-29	N/A
+Seq1271	gi|913201607|gb|KP011479.1|	81.818	154	7.00e-24	N/A
+Seq1272	gi|602624643|gb|KF591910.1|	87.857	140	3.19e-37	N/A
+Seq1273	gi|195926767|dbj|AB285537.1|	85.714	161	8.86e-38	Oiceoptoma subrufum mitochondrial gene for 16S ribosomal RNA, partial sequence
+Seq1274	gi|924434874|gb|KP082025.1|	91.358	162	2.41e-53	N/A
+Seq1275	gi|924434919|gb|KP082070.1|	97.561	164	1.09e-71	N/A
+Seq1276	gi|955662266|emb|LN888419.1|	82.692	156	3.23e-27	N/A
+Seq1277	gi|522211278|gb|KF164823.1|	86.228	167	5.30e-40	Salassa lemaii voucher MZUWSM9 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1278	gi|259053095|emb|FM955272.1|	82.716	162	6.95e-29	Parnassius simo mitochondrial partial 16S rRNA gene, specimen voucher UP100-24
+Seq1279	gi|522211278|gb|KF164823.1|	84.906	159	1.92e-34	Salassa lemaii voucher MZUWSM9 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1280	gi|52699637|gb|AY555555.1|	86.429	140	2.48e-33	Sminthurinus bimaculatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1281	gi|1334687415|gb|MF925711.1|	100.000	191	6.34e-94	N/A
+Seq1284	gi|1654369|gb|U68152.1|MLU68152	83.146	89	4.27e-11	Mirax lithocolletidis 16S mitochondrial ribosomal RNA, mitochondrial gene, partial sequence
+Seq1286	gi|66270002|gb|DQ023042.1|	86.607	112	7.00e-24	Cardiocondyla emeryi isolate emeryi72A 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1287	gi|602624645|gb|KF591912.1|	79.333	150	9.12e-18	N/A
+Seq1288	gi|696121454|gb|KF806850.1|	98.658	149	3.05e-67	N/A
+Seq1289	gi|339773535|gb|HM770490.1|	89.375	160	8.74e-48	Eriothrix rufomaculatus isolate ERI 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1291	gi|109390828|emb|AJ495550.1|	87.975	158	6.80e-44	Cionus alauda partial mitochondrial 16S rRNA gene
+Seq1292	gi|955662201|emb|LN888354.1|	87.162	148	1.48e-35	N/A
+Seq1293	gi|66270011|gb|DQ023051.1|	79.769	173	1.51e-20	Monomorium pharaonis isolate Momomorium105A 16S large subunit ribosomal RNA gene, partial sequence; mitochondrial
+Seq1295	gi|1016563152|gb|KR262593.1|	87.421	159	1.14e-41	N/A
+Seq1296	gi|669677951|gb|KF438105.1|	85.526	152	6.90e-34	N/A
+Seq1298	gi|670351147|dbj|AB841473.1|	86.420	162	1.90e-39	N/A
+Seq1300	gi|334884241|gb|JF927832.1|	94.578	166	5.11e-65	Himacerus nodipes mitochondrion, partial genome
+Seq1301	gi|290766612|gb|GU596611.1|	80.620	129	1.53e-15	Vespa orientalis 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1302	gi|996132864|gb|KP730782.1|	82.609	161	1.93e-29	N/A
+Seq1305	gi|1011752277|gb|KR263006.1|	83.333	156	6.95e-29	N/A
+Seq1306	gi|283484624|gb|GQ122085.1|	92.405	158	5.18e-55	Kolla paulula 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1307	gi|1015602311|gb|KT956327.1|	87.342	158	3.16e-42	N/A
+Seq1308	gi|296051019|gb|GQ268346.1|	86.310	168	5.30e-40	Pharmacophagus antenor voucher FS-b-1646 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1309	gi|472455858|gb|KC236212.1|	82.609	92	4.27e-11	Seira barnardi 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1310	gi|592828221|gb|KJ194553.1|	80.508	118	3.30e-12	N/A
+Seq1311	gi|60502255|gb|AY543619.2|	85.185	162	4.12e-36	Xyrosaris lichneuta from Euonymus alatus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1312	gi|94467795|gb|DQ459943.1|	100.000	130	5.15e-60	Nais alpina 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1313	gi|73761828|gb|DQ104768.1|	86.486	148	5.33e-35	Heterocaecilius fuscus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1314	gi|161318264|gb|EU164606.1|	82.390	159	8.99e-28	Cartodere constrictus 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1316	gi|390473354|gb|JX050221.1|	95.000	160	8.55e-63	Macrotermes barneyi mitochondrion, complete genome
+Seq1317	gi|87242535|gb|DQ371184.1|	83.766	154	1.49e-30	Lamprigera yunnana 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1319	gi|13928521|dbj|AB042398.1|	90.385	208	6.57e-69	Laniarius ferrugineus mitochondrial gene for 16S ribosomal RNA, partial sequence
+Seq1320	gi|1246953300|gb|MF152842.1|	90.741	162	3.12e-52	N/A
+Seq1321	gi|1158798300|gb|KX551364.1|	81.481	162	2.11e-24	N/A
+Seq1322	gi|1248843112|gb|KY039118.1|	85.263	95	1.28e-16	N/A
+Seq1323	gi|204308221|gb|EU863266.1|	83.838	99	5.96e-15	Forficula auricularia isolate Tielt-Winge 2 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1324	gi|94966282|dbj|AB240575.1|	84.459	148	1.62e-30	Acanthocoris sordidus mitochondrial gene for 16S rRNA, partial sequence
+Seq1325	gi|1036229483|gb|KT876879.1|	85.106	141	1.62e-30	N/A
+Seq1326	gi|962094465|gb|KR903781.1|	85.714	98	9.91e-18	N/A
+Seq1327	gi|401785622|gb|JX433392.1|	79.577	142	2.14e-14	Nesophrosyne sp. 321 GMB-2012 16S ribosomal RNA gene, partial sequence; mitochondrial
+Seq1328	gi|158832202|dbj|AB363711.1|	88.406	138	3.46e-37	Cacopsylla chinensis mitochondrial gene for 16S rRNA, partial sequence, isolate: JB
+Seq1329	gi|1043349117|gb|KU508243.1|	84.444	90	3.59e-12	N/A
