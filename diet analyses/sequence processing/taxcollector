@@ -1,0 +1,25 @@
+module load perl/5.24.1
+
+git clone git://github.com/mvneves/ncbitaxcollector
+cd ncbitaxcollector
+make
+
+cd/project/pricet
+wget https://github.com/Bioinfo-Tools/ncbitc_functions/tarball/master
+tar -xvf master
+rm master
+mv Bioinfo-Tools-ncbitc_* master
+cd master
+make all
+cp tax_class ../
+cd ..
+chmod 777 tax_class
+wget ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz
+wget ftp://ftp.ncbi.nih.gov/pub/taxonomy//gi_taxid_nucl.dmp.gz
+tar -xvf taxdump.tar.gz
+gunzip gi_taxid_nucl.dmp.gz
+./tax_class -c
+
+perl NCBI-taxcollector-0.01.pl -f ~/MinSeqAmp/MinSeqAmpfastq/asvpart1ws9.txt -o asvtaxlimpart1.txt
+perl NCBI-taxcollector-0.01.pl -f ~/MinSeqAmp/MinSeqAmpfastq/asvpart2ws9.txt -o asvtaxlimpart2.txt
+perl NCBI-taxcollector-0.01.pl -f ~/MinSeqAmp/MinSeqAmpfastq/asvpart3ws9.txt -o asvtaxlimpart3.txt
