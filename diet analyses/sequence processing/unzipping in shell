@@ -1,0 +1,10 @@
+mkdir MinSeqAmpfastq
+
+
+#unzip files
+
+for a in *.gz; 
+do gunzip -c $a 
+MinSeqAmpfastq/`echo $a | sed s/.gz//`;done
+
+
